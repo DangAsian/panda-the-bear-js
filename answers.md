@@ -40,3 +40,7 @@ for (i = 0; i < circle_icon.length; i++) { circle_icon[i].style.backgroundColor 
 14) Don't know how to do T_T ask for help
 
 15) var time = document.body.querySelector('#time-travel').remove
+
+16) var pika = document.body.getElementById('right-image')
+    var pika1 = pika.cloneNode(true);
+    var port = document.querySelector('.portfolio-container').appendChild(pika1)
