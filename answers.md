@@ -38,3 +38,5 @@ for (i = 0; i < circle_icon.length; i++) { circle_icon[i].style.backgroundColor 
 13)var disableBut = document.body.querySelector('form #submit').disabled = true
 
 14) Don't know how to do T_T ask for help
+
+15) var time = document.body.querySelector('#time-travel').remove
